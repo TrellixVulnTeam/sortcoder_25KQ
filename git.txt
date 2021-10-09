@@ -5,7 +5,7 @@ git commit -m "update"
 git push -u origin main
 git remote add origin https://github.com/Ritikchhipa5/sortcoder.git
 
-
+git remote add origin https://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@github.com/Ritikchhipa5/sortcoder.git
 
 
 git pull origin main
