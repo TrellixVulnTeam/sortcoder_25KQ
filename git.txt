@@ -1,0 +1,27 @@
+git init -b main
+git pull origin main
+git add .
+git commit -m "update"
+git push -u origin main
+git remote add origin https://github.com/Ritikchhipa5/sortcoder.git
+
+
+
+
+git pull origin main
+
+
+https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches.
+
+
+//Steps 
+git add .
+git push 
+git commit -m "update"
+git push -u origin main
+
+code  ~/.git-credentials
+
+
+
+
